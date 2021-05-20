@@ -38,8 +38,6 @@
 *.rar
 
 .settings
-.classpath
-.project
 Users/*
 
 
